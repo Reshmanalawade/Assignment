@@ -1,2 +1,2 @@
 # Assignment
-Python Assignments
+Python and SQL Assignments
